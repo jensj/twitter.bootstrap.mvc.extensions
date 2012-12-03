@@ -1,0 +1,60 @@
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\MvcApplication_EricHexter_Bootstrap.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\MvcApplication_EricHexter_Bootstrap.pdb
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\Antlr3.Runtime.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\EntityFramework.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\Newtonsoft.Json.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Net.Http.Formatting.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Http.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Http.WebHost.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Mvc.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Optimization.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Providers.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Razor.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.Deployment.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.Razor.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\WebGrease.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\EntityFramework.xml
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\Newtonsoft.Json.xml
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Net.Http.Formatting.xml
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Http.xml
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Http.WebHost.xml
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Mvc.xml
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Razor.xml
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.xml
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.Deployment.xml
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.Razor.xml
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\obj\Debug\MvcApplication_EricHexter_Bootstrap.csprojResolveAssemblyReference.cache
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\obj\Debug\MvcApplication_EricHexter_Bootstrap.dll
+c:\users\jens jonsson\documents\visual studio 2012\Projects\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\obj\Debug\MvcApplication_EricHexter_Bootstrap.pdb
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\MvcApplication_EricHexter_Bootstrap.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\MvcApplication_EricHexter_Bootstrap.pdb
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\Antlr3.Runtime.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\EntityFramework.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\Microsoft.Web.Infrastructure.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\Newtonsoft.Json.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Net.Http.Formatting.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Http.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Http.WebHost.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Mvc.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Optimization.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Providers.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Razor.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.Deployment.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.Razor.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\WebGrease.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\EntityFramework.xml
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\Newtonsoft.Json.xml
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Net.Http.Formatting.xml
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Http.xml
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Http.WebHost.xml
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Mvc.xml
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.Razor.xml
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.xml
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.Deployment.xml
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.Razor.xml
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\obj\Debug\MvcApplication_EricHexter_Bootstrap.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\obj\Debug\MvcApplication_EricHexter_Bootstrap.dll
+\\psf\Home\Desktop\slask\MvcApplication_EricHexter_Bootstrap\MvcApplication_EricHexter_Bootstrap\obj\Debug\MvcApplication_EricHexter_Bootstrap.pdb

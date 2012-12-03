@@ -1,0 +1,27 @@
+@using MvcApplication_EricHexter_Bootstrap.BootstrapSupport
+@model MvcApplication_EricHexter_Bootstrap.Models.PagedViewModel
+
+@{
+    var dictionary = new Dictionary<string, object>();
+    Request.QueryString.CopyTo(dictionary);
+    dictionary["page"] = 1;
+}
+
+<div>
+    <div class="pull-left">
+        <h4>@Html.Raw(String.IsNullOrEmpty(Model.Type) ? Model.Items.GetLabel() : Model.Type) <small>Showing @Model.FirstItemOrdinal() - @Model.LastItemOrdinal() of @Model.TotalNumberOfItems</small></h4>
+    </div>
+    <div class="pagination pagination-right">
+        <ul>
+            @for (int i = 1; i <= Model.TotalNumberOfPages(); i++)
+            {
+                dictionary["page"] = i;
+                <li class="@(Model.CurrentPage == i ? "active" : "")">
+                    <a  href="?@Html.Raw(String.Join("&", dictionary.Select(x => x.Key + "=" + dictionary[x.Key])))">
+                        @(i)
+                    </a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
