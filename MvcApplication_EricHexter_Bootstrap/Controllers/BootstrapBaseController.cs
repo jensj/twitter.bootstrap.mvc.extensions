@@ -1,5 +1,5 @@
 using System.Web.Mvc;
-using MvcApplication_EricHexter_Bootstrap.BootstrapSupport;
+using BootstrapSupport;
 
 namespace MvcApplication_EricHexter_Bootstrap.Controllers
 {

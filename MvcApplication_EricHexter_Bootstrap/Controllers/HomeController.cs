@@ -74,10 +74,10 @@ namespace MvcApplication_EricHexter_Bootstrap.Controllers
             return View(Items.Get(id));
         }
 
-        [HttpPost]
-        public ActionResult Delete(HomeInputModel model, int id)
+        [HttpPost, ActionName("Delete")]
+        public ActionResult ConfirmDelete(int id)
         {
-            Items.Remove(Items.Get((int)id));
+            Items.Remove(Items.Get(id));
             Information("Your widget was deleted");
             if (Items.Count == 0)
             {

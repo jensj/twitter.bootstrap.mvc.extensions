@@ -10,7 +10,7 @@ using System.Web.Mvc.Html;
 using System.Web.Routing;
 using MvcApplication_EricHexter_Bootstrap.Models;
 
-namespace MvcApplication_EricHexter_Bootstrap.BootstrapSupport
+namespace BootstrapSupport
 {
     public static class DefaultScaffoldingExtensions
     {
