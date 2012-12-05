@@ -87,3 +87,4 @@ C:\repos\MvcApplication_EricHexter_Bootstrap\twitter.bootstrap.mvc.extensions\Mv
 C:\repos\MvcApplication_EricHexter_Bootstrap\twitter.bootstrap.mvc.extensions\MvcApplication_EricHexter_Bootstrap\bin\System.Web.WebPages.Razor.xml
 C:\repos\MvcApplication_EricHexter_Bootstrap\twitter.bootstrap.mvc.extensions\MvcApplication_EricHexter_Bootstrap\obj\Debug\MvcApplication_EricHexter_Bootstrap.dll
 C:\repos\MvcApplication_EricHexter_Bootstrap\twitter.bootstrap.mvc.extensions\MvcApplication_EricHexter_Bootstrap\obj\Debug\MvcApplication_EricHexter_Bootstrap.pdb
+C:\repos\MvcApplication_EricHexter_Bootstrap\twitter.bootstrap.mvc.extensions\MvcApplication_EricHexter_Bootstrap\obj\Debug\MvcApplication_EricHexter_Bootstrap.csprojResolveAssemblyReference.cache

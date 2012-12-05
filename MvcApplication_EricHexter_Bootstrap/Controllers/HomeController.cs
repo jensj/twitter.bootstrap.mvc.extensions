@@ -16,12 +16,23 @@ namespace MvcApplication_EricHexter_Bootstrap.Controllers
             LoadCountriesIntoViewData();
 
             List<HomeInputModel> filteredItems = Items;
+
             
             var qName = Request.QueryString["Name"];
             var qCountry = Request.QueryString["Country"];
 
-            if(!String.IsNullOrWhiteSpace(qName))  filteredItems = Items.Where(x => x.Name == qName).ToList();
-            if(!String.IsNullOrWhiteSpace(qCountry))  filteredItems = Items.Where(x => x.Country == int.Parse(qCountry)).ToList();
+            bool filtered = false;
+
+            if (!String.IsNullOrWhiteSpace(qName))
+            {
+                filteredItems = Items.Where(x => x.Name == qName).ToList();
+                filtered = true;
+            }
+            if (!String.IsNullOrWhiteSpace(qCountry))
+            {
+                filteredItems = Items.Where(x => x.Country == int.Parse(qCountry)).ToList();
+                filtered = true;
+            }
 
             var take = PagedViewModel.DefaultPagesize;
             var skip = (page - 1)*take;
@@ -30,6 +41,8 @@ namespace MvcApplication_EricHexter_Bootstrap.Controllers
                 new PagedViewModel(
                     filteredItems.Skip(skip).Take(take),
                     filteredItems.Count, page, "Users");
+
+            viewModel.Filtered = filtered;
             return View("Index", viewModel);
         }
 
@@ -75,7 +88,7 @@ namespace MvcApplication_EricHexter_Bootstrap.Controllers
         }
 
         [HttpPost, ActionName("Delete")]
-        public ActionResult ConfirmDelete(int id)
+        public ActionResult DeletePost(int id)
         {
             Items.Remove(Items.Get(id));
             Information("Your widget was deleted");

@@ -1,8 +1,12 @@
 @using BootstrapSupport
-@model MvcApplication_EricHexter_Bootstrap.Models.PagedViewModel
+@model PagedViewModel
+
+<a href="@Url.Action("Create")" class="btn"><i class="icon-plus"></i> Create new</a>
 @Html.TryPartial("_search", Model.Default())
 
 @Html.TryPartial("_pagination", Model)
+
+
 
 <table class="table table-striped">
     <caption></caption>
@@ -29,7 +33,7 @@
                 </td>                    
             }
             <td>
-                <div class="btn-group">
+                <div class="btn-group ">
                     <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">Action
                         <span class="caret"></span>
                     </a>
@@ -53,6 +57,6 @@
 
 </table>
 <p>
-    @Html.ActionLink("Create New", "Create", null, new { @class = "btn" })
+   
 </p>
 

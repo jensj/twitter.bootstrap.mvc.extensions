@@ -1,5 +1,5 @@
-@using MvcApplication_EricHexter_Bootstrap.BootstrapSupport
-@model MvcApplication_EricHexter_Bootstrap.Models.PagedViewModel
+@using BootstrapSupport
+@model PagedViewModel
 
 @{
     var dictionary = new Dictionary<string, object>();
@@ -9,8 +9,17 @@
 
 <div>
     <div class="pull-left">
-        <h4>@Html.Raw(String.IsNullOrEmpty(Model.Type) ? Model.Items.GetLabel() : Model.Type) <small>Showing @Model.FirstItemOrdinal() - @Model.LastItemOrdinal() of @Model.TotalNumberOfItems</small></h4>
+        <h4>
+            @Html.Raw(String.IsNullOrEmpty(Model.Title) ? Model.Items.GetLabel() : Model.Title)
+            <small>Showing @Model.FirstItemOrdinal() - @Model.LastItemOrdinal() of @Model.TotalNumberOfItems
+            @if (Model.Filtered)
+            {
+                <span><i class="icon-filter" title="This list is filtered"></i> @Html.ActionLink("Clear filter", "Index")</span>
+            }
+            </small>
+        </h4>
     </div>
+   
     <div class="pagination pagination-right">
         <ul>
             @for (int i = 1; i <= Model.TotalNumberOfPages(); i++)
